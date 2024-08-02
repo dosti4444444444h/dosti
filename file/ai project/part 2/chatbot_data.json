@@ -1,0 +1,20 @@
+{
+    "pairs": [
+        {
+            "prompt": "Hello",
+            "response": "Hello! How can I assist you today?"
+        },
+        {
+            "prompt": "Hello",
+            "response": "Hi there!"
+        },
+        {
+            "prompt": "how are you doing ",
+            "response": "im doing fine "
+        },
+        {
+            "prompt": "say something",
+            "response": "something"
+        }
+    ]
+}

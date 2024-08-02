@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "name": "dosti",
+            "entries": [
+                {
+                    "text": "i like to walk ",
+                    "sentiment": "neutral"
+                },
+                {
+                    "text": "i love to eat",
+                    "sentiment": "happy"
+                }
+            ]
+        }
+    ]
+}
